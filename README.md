@@ -1,1 +1,1 @@
-# template
+# React Vite Template (SPA)
