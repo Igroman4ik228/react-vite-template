@@ -7,11 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -22,3 +17,20 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Other
+node_modules
+dist
+dist-ssr
+build
+Thumbs.db
+.env
+*.local
+*.tmp
+*.temp
+.vite/
+.stylelintcache
+.eslintcache
+coverage
+jest-cache
+test-results

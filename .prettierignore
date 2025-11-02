@@ -1,2 +1,9 @@
 dist
+build
+coverage
+.vite
+.vitest
+.playwright
+.DS_Store
+playwright-report
 package-lock.json
